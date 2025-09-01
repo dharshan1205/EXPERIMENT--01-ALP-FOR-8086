@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :SHRAVANI M
-Roll no:212224230263 
-Date of experiment :29/8/25
+Name :DHARSHAN R
+Roll no:212224230060
+Date of experiment :31/8/25
 
 
 
